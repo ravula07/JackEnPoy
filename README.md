@@ -1,5 +1,5 @@
 # JackEnPoy
-This repository contains an implementation of the popular game "Jackenpoy" (also known as "Rock, Paper, Scissors") written in the Jack programming language. The game is part of the nand2tetris project, which focuses on building a computer system from scratch.
+This repository contains an implementation of the popular game "Jackenpoy" (also known as "Rock, Paper, Scissors") written in the Jack programming language. The game is developed as a part of the nand2tetris project, which focuses on building a computer system from scratch.
 
 **Jackenpoy** is a two-player game where each player simultaneously chooses one of three options: rock, paper, or scissors. The choices are then compared, and the winner is determined based on the following rules:
 
